@@ -1,0 +1,9 @@
+class Launch
+{
+pu
+ void mi()
+{
+Sysytem.out.println("Aniket");
+}
+
+}
